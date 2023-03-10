@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "The Art of War",
+    "price": 7.99,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZRIvBcUOQorAMuTwp36Xa0U95_PbDEgUQVQ&usqp=CAU"
+  },
+  {
+    "id": 2,
+    "name": "The Lord of the Rings Series",
+    "price": 41.99,
+    "img": "https://i0.wp.com/booksofbrilliance.com/wp-content/uploads/2022/08/Add-a-heading-6.png?resize=731%2C411&ssl=1"
+  },
+  {
+    "id": 3,
+    "name": "And Then There were None",
+    "price": 6.99,
+    "img": "https://static01.nyt.com/images/2020/10/25/books/review/25AGATHACHRISTIE-13/25AGATHACHRISTIE-13-mobileMasterAt3x.jpg"
+  },
+  {
+    "id": 4,
+    "name": "MacBook Pro",
+    "price": 1050.49,
+    "img": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/og-macbook-pro-202301?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1670261864358"
+  },
+  {
+    "id": 5,
+    "name": "Asus Gaming Laptop",
+    "price": 1107.55,
+    "img": "https://dlcdnrog.asus.com/rog/media/1468421895964.webp"
+  },
+  {
+    "id": 6,
+    "name": "IPhone 14 Pro Max",
+    "price": 7.99,
+    "img": "https://cdn.akakce.com/z/apple/iphone-14-pro-max.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Samsung galaxy S22 Ultra",
+    "price": 999.99,
+    "img": "https://www.91-cdn.com/hub/wp-content/uploads/2022/03/Samsung-Galaxy-S22-Ultra-feat-1200x900.png"
+  },
+  {
+    "id": 8,
+    "name": "MSI Gaming Laptop",
+    "price": 1500.99,
+    "img": "http://asset.msi.com/global/picture/news/2015/nb/20150107_2.png"
+  },
+  {
+    "id": 9,
+    "name": "Atomic Habits",
+    "price": 12.99,
+    "img": "https://storage.googleapis.com/du-prd/books/images/9780735211292.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Brief History of the Time",
+    "price": 5.99,
+    "img": "https://bookmafiya.com/wp-content/uploads/2020/06/A-Brief-History-Of-Time.jpg"
+  }
+]
